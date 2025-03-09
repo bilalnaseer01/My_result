@@ -16,5 +16,3 @@ Great job on successfully completing and passing your Python project! 🏆 Your 
 Keep exploring, keep coding, and aim for even greater success in the future! 🚀🔥
 Wishing you all the best in your programming journey! 🎯👏""")
     print("See you soon in next quarter......!😇")
-else:
-    print("Better luck for next time😢")
