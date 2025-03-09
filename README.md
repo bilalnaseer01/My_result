@@ -1,1 +1,1 @@
-#PIAIC Program Python Projects Result.
+PIAIC Program Python Projects Result.
